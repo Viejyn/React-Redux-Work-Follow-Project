@@ -21,5 +21,5 @@
 
 ### 🎥 `Screen`
 
-![Watch the screen](https://github.com/Viejyn/React-Redux-Work-Follow-Project/blob/1cdfd6471b6718d4eb34e0faa4bb9945fafafb4e/Work.mp4)
+https://github.com/user-attachments/assets/fa6ee741-e66f-4444-81ef-8fdcfc14dd92
 
