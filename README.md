@@ -21,4 +21,4 @@
 
 ### 🎥 `Screen`
 
-# React-Redux-Work-Follow-Project
+![Watch the screen](https://raw.githubusercontent.com/Viejyn/React-Redux-Work-Follow-Project/main/assets/Work.mp4)
