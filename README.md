@@ -15,10 +15,6 @@
 <li>Sass</li>
 <li>Responsive Design</li>
 
-### 🌐 `Deploy`
-
-
-
 ### 🎥 `Screen`
 
 https://github.com/user-attachments/assets/fa6ee741-e66f-4444-81ef-8fdcfc14dd92
