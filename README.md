@@ -3,7 +3,7 @@
 <li>This project helps the user to add jobs and to keep track of them.</li>
 <li>It is built with modern web technologies and includes functions such as sorting jobs according to selected filters.</li>
 
-### 🧑‍💻 Technologies Used
+### 👩‍💻 Technologies Used
 
 <li>React-Redux</li>
 <li>@reduxjs/toolkit</li>
@@ -17,5 +17,5 @@
 
 ### 🎥 `Screen`
 
-https://github.com/user-attachments/assets/fa6ee741-e66f-4444-81ef-8fdcfc14dd92
+![](Work.gif)
 
